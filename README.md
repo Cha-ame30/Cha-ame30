@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello!👋 My name is Cha-ame
+🎓I'm a Computer Engineering student at KOSEN KMITL | I'm interested in game development | Open to learn new
 
-<!--
-**67991030/67991030** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌏 I'm based in Thailand
+* 📩 My email contact is 67991030@kmitl.ac.th
 
-Here are some ideas to get you started:
+## Currently learning ✨
+* Python
+* Git
+* Visual Studio Code
+* Blender
+* Japanese
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊My GitHub Stats
+<a href="http://www.github.com/Cha-ame30"><img src="https://github-readme-stats.vercel.app/api?username=Cha-ame30&show_icons=true&hide=&count_private=true&title_color=ffd52e&text_color=ffffff&icon_color=0f172a&bg_color=1f0b29&hide_border=true&show_icons=true" alt="Cha-ame30's GitHub stats" /></a>
+
+
