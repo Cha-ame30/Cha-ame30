@@ -1,5 +1,5 @@
 # Hello!👋 My name is Cha-ame
-🎓I'm a Computer Engineering student at KOSEN KMITL | I'm interested in game development | Open to learn new
+🎓I'm a Computer Engineering student at KOSEN KMITL | I'm interested in game development | Open to learn new things and improve myself❤️
 
 * 🌏 I'm based in Thailand
 * 📩 My email contact is 67991030@kmitl.ac.th
